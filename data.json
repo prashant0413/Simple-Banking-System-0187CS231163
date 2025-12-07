@@ -1,0 +1,23 @@
+{
+  "accounts": [
+    {
+      "account_number": "ACC001",
+      "name": "Prashant",
+      "balance": 13500.0,
+      "transactions": [
+        {
+          "type": "deposit",
+          "amount": 9000.0,
+          "timestamp": "2025-12-05 16:36:51",
+          "balance_after": 9000.0
+        },
+        {
+          "type": "deposit",
+          "amount": 4500.0,
+          "timestamp": "2025-12-05 16:38:32",
+          "balance_after": 13500.0
+        }
+      ]
+    }
+  ]
+}
